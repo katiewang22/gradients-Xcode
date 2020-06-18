@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		061DA3EA248FEAC300629FFE /* UIView+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 061DA3E9248FEAC300629FFE /* UIView+Extension.swift */; };
 		06F70431248A90CC003FF0CE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06F70430248A90CC003FF0CE /* AppDelegate.swift */; };
 		06F70433248A90CC003FF0CE /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06F70432248A90CC003FF0CE /* SceneDelegate.swift */; };
 		06F70435248A90CC003FF0CE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 06F70434248A90CC003FF0CE /* ViewController.swift */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		061DA3E9248FEAC300629FFE /* UIView+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIView+Extension.swift"; sourceTree = "<group>"; };
 		06F7042D248A90CC003FF0CE /* gradient button.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "gradient button.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		06F70430248A90CC003FF0CE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		06F70432248A90CC003FF0CE /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -103,6 +105,7 @@
 				06F70432248A90CC003FF0CE /* SceneDelegate.swift */,
 				06F70434248A90CC003FF0CE /* ViewController.swift */,
 				06F70436248A90CC003FF0CE /* Main.storyboard */,
+				061DA3E9248FEAC300629FFE /* UIView+Extension.swift */,
 				06F70439248A90CF003FF0CE /* Assets.xcassets */,
 				06F7043B248A90CF003FF0CE /* LaunchScreen.storyboard */,
 				06F7043E248A90CF003FF0CE /* Info.plist */,
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				06F70435248A90CC003FF0CE /* ViewController.swift in Sources */,
+				061DA3EA248FEAC300629FFE /* UIView+Extension.swift in Sources */,
 				06F70431248A90CC003FF0CE /* AppDelegate.swift in Sources */,
 				06F70433248A90CC003FF0CE /* SceneDelegate.swift in Sources */,
 			);
